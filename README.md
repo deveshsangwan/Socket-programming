@@ -10,3 +10,6 @@ Used two files client and server to send and recieve a string message.
 # Files Used:
  * Server (.Py)
  * Client (.Py)
+
+# Port Details:
+Port Number: 5050
