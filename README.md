@@ -6,4 +6,7 @@ or one that’s physically connected to an external network,
 with its own connections to other networks. 
 The obvious example is the Internet, which you connect to via your ISP.
 
-Used two files client and server to send and recieve a string message
+Used two files client and server to send and recieve a string message.
+# Files Used:
+ * Server (.Py)
+ * Client (.Py)
